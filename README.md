@@ -6,3 +6,9 @@ I'm a Software Engineering student documenting my learning journey and technical
 - Cybersecurity
 - Python
 - Software Engineering
+
+## Goals
+- Improve my software development skills
+- Build practical projects
+- Learn cybersecurity fundamentals
+- Strengthen my GitHub portfolio
